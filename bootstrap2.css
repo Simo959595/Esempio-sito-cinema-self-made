@@ -1,0 +1,55 @@
+body{
+height: 2600px;
+}
+
+.grid{
+width: 80%;
+}
+
+.container{
+padding-top: 30px;
+}
+
+.bordo{
+border: 3px solid rgb(0, 94, 255);
+}
+
+.navbar1{
+padding-top: 120px;
+}
+
+.carosello{
+position: relative;
+top: 70px;
+left: 160px;
+height: 400px;
+}
+
+.carte{
+margin-top: 1000px;
+}
+
+.card-title{
+    text-align: center;
+    font-style: italic;
+}
+
+.modal1{
+padding-top: 20px;
+}
+
+.p2-p3-p4{
+font-size: 200px;
+color: rgba(215, 215, 21, 0.441);
+background: linear-gradient(#750e0e,#b40fd1) 120deg;
+}
+
+.titoletto{
+text-align: center;
+color: rgb(0, 94, 255);
+}
+
+.caros2{
+display: flex;
+padding-top: 250px;
+}
